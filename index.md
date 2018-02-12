@@ -4,10 +4,10 @@
 
 Research Scientist           
 Embedded Systems & Robotics  
-TCS Research & Innovation   
-Tata Consultancy Services
+TCS Research & Innovation(http://research-innovation.tcs.com/research/Pages/default.aspx)
+Bangalore, India
 
-email: firstname.lastname @ tcs.com
+**email: firstname.lastname @ tcs.com**
 
 You can use the [editor on GitHub](https://github.com/ajaykattepur/ajaykattepur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
