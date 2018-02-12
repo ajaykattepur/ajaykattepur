@@ -1,14 +1,13 @@
 ## Ajay Kattepur
 
+![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
+- Research Scientist
+- Embedded Systems & Robotics
+- TCS Research & Innovation
+- Tata Consultancy Services
 
-
-Research Scientist
-Embedded Systems & Robotics
-TCS Research & Innovation
-
-Tata COnsultancy Services
-
+email: firstname.lastname @ tcs.com
 
 You can use the [editor on GitHub](https://github.com/ajaykattepur/ajaykattepur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
