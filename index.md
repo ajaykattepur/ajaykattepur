@@ -2,10 +2,10 @@
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
-- Research Scientist
-- Embedded Systems & Robotics
-- TCS Research & Innovation
-- Tata Consultancy Services
+Research Scientist           
+Embedded Systems & Robotics  
+TCS Research & Innovation   
+Tata Consultancy Services
 
 email: firstname.lastname @ tcs.com
 
