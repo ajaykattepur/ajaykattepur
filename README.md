@@ -1,3 +1,0 @@
-# ajaykattepur
-
-meme
