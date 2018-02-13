@@ -2,9 +2,10 @@
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
-Research Scientist           
+Research Scientist (Assistant Consultant)           
 Embedded Systems & Robotics  
 [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx)  
+[Tata Consultancy Services](https://www.tcs.com/)
 Bangalore, India
 
 **email: firstname.lastname @ tcs.com**   
@@ -15,7 +16,7 @@ Bangalore, India
 
 **Employment**
 - 2014 - present: Research Scientist (Assistant Consultant), [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx), Bangalore, India.
-- 2012 - 2014: Postdoctoral Fellow, ARLES group, [Inria](https://www.inria.fr/en/), Paris-Rocquencourt, France.
+- 2012 - 2014: Postdoctoral Research Fellow, ARLES group, [Inria](https://www.inria.fr/en/), Paris-Rocquencourt, France.
 
 **Education**
 - 2009 - 2012: PhD in Computer Science, DistribCom group, [Inria](https://www.inria.fr/en/), [Universite de Rennes 1](https://www.univ-rennes1.fr/), Rennes, France. 
@@ -30,7 +31,7 @@ Bangalore, India
  
 ### Research
 
-Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation**.
+Primarily based on applying analytical, simulation and probabilistic models to study: **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation**.
 
 **Industrial Automation**
 - Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
@@ -66,8 +67,8 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 
 
 ### Publication List
-[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
-[DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
+[**Google Scholar**](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
+[**DBLP**](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
 
