@@ -32,7 +32,24 @@ Bangalore, India
 
 Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems, Performance Evaluation, Cyber-Physical Systems, Industrial Deployments**.
 
-[**Further details**](https://ajaykattepur.github.io/ajaykattepur/projects) 
+**Distributed Systems and Middleware**
+- QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
+- QoS composition and analysis in reconfigurable web services choreographies, ICWS, 2013. 
+- Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. 
+- Optimizing decisions in web services orchestrations, ICSOC, 2011.
+- Variability modeling and qos analysis of web services orchestrations, ICWS, 2010.
+
+
+**Performance Modeling**
+
+
+
+**Communication Protocols**
+- Data and decision fusion for distributed spectrum sensing in cognitive radio networks, ICICS, 2007.
+- High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
+- Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009.
+
+**Publications**
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
