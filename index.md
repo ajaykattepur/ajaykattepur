@@ -1,9 +1,8 @@
-## Ajay Kattepur
+## Dr. Ajay Kattepur
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
 Research Scientist (Assistant Consultant)           
-Embedded Systems & Robotics  
 [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx)  
 [Tata Consultancy Services](https://www.tcs.com/)
 Bangalore, India
@@ -25,7 +24,7 @@ Bangalore, India
 - 2001 - 2003: ISC Standard 12 (Science), [Bishop Cotton Boys' School](http://www.cottonboys.com/), Bangalore, India.
 - 1991 - 2001: ICSE Standard 10, [Frank Anthony Public School](http://www.fapsbangalore.com/), Bangalore, India.
 
-[**Detailed Curriculum Vitae (PDF)**](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)
+[**Detailed Curriculum Vitae**](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)
 
  
  
