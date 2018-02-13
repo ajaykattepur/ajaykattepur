@@ -4,8 +4,8 @@
 
 Research Scientist (Assistant Consultant)           
 [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx)  
-[Tata Consultancy Services](https://www.tcs.com/)
-Bangalore, India
+[Tata Consultancy Services](https://www.tcs.com/)  
+Bangalore, India.
 
 **email: firstname.lastname @ tcs.com**   
    
