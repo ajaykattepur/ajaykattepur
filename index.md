@@ -51,19 +51,14 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 
 
 **Distributed Systems and Middleware**
-- Analysis of timing constraints in heterogeneous middleware interactions, ICSOC, 2015.
-- QoS-aware management of monotonic service orchestrations, FMSD, 2014. 
-- QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
-- Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. 
-- Optimizing decisions in web services orchestrations, ICSOC, 2011.
+- **Heterogeneous Middleware Interactions**: Analysis of timing constraints in heterogeneous middleware interactions, ICSOC, 2015. QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
+- **QoS Management of Web Services Orchestrations/Choreographies**: QoS-aware management of monotonic service orchestrations, FMSD, 2014. QoS composition and analysis in reconfigurable web services choreographies, ICWS, 2013. Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. Optimizing decisions in web services orchestrations, ICSOC, 2011.
 ![Image](https://ajaykattepur.github.io/ajaykattepur/automata.png)
 
 
 **Communication Protocols**
-- FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014.
-- Data and decision fusion for distributed spectrum sensing in cognitive radio networks, ICICS, 2007.
-- High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
-- Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009.
+- **Cognitive Radio Spectrum Sensing**: Data and decision fusion for distributed spectrum sensing in cognitive radio networks, ICICS, 2007.
+- **Blind Source Separation for Communication Signals**: Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009. FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014. High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
 ![Image](https://ajaykattepur.github.io/ajaykattepur/comms.png)
 
 
