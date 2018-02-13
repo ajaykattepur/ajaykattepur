@@ -36,17 +36,13 @@ Primarily based on applying analytical, simulation and probabilistic models to s
  
  
 **Industrial Automation**
-- Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
-- Workflow Composition and Analysis in Industry 4.0 Automation, IEEE RTSS, 2017.
-- A-Priori Estimation of Computation Times in Fog Networked Robotics, IEEE Edge, 2017. 
-- Resource Constrained Offloading in Fog Computing, Middleware, 2016. 
+- **Industry 4.0 Workflows**: Workflow Composition and Analysis in Industry 4.0 Automation, IEEE RTSS, 2017. Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
+- **Fog/Edge Computing**: A-Priori Estimation of Computation Times in Fog Networked Robotics, IEEE Edge, 2017. Resource Constrained Offloading in Fog Computing, Middleware, 2016. 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/fog.png)
 
 
 **Performance Modeling**
-- Service demand modeling and performance prediction with single-user tests, Performance Evaluation, 2017. 
-- Model Driven Software Performance Engineering: Current Challenges and Way Ahead, ACM Sigmetrics, 2016.
-- Performance modeling of multi-tiered web applications with varying service demands, IPDPS, 2015.
+- **Service Demand Modeling**: Service demand modeling and performance prediction with single-user tests, Performance Evaluation, 2017. Model Driven Software Performance Engineering: Current Challenges and Way Ahead, ACM Sigmetrics, 2016. Performance modeling of multi-tiered web applications with varying service demands, IPDPS, 2015.
 ![Image](https://ajaykattepur.github.io/ajaykattepur/performance.png)
 
 
