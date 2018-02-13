@@ -10,7 +10,7 @@ Bangalore, India
 **email: firstname.lastname @ tcs.com**   
    
     
-# Curriculum Vitae
+### Curriculum Vitae
 
 **Employment**
 
@@ -28,7 +28,7 @@ Bangalore, India
 **Detailed Curriculum Vitae (PDF)**
 
 
-## Research
+### Research
 
 
 You can use the [editor on GitHub](https://github.com/ajaykattepur/ajaykattepur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
