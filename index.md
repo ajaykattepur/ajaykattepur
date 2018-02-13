@@ -43,7 +43,7 @@ Primarily based on applying mathematical models and abstractions to study:
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
-![Image](https://ajaykattepur.github.io/ajaykattepur/CALVIN.PNG)
+![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
 
 
 
