@@ -30,11 +30,9 @@ Bangalore, India
  
 ### Research
 
-Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems  |  Performance Evaluation  |  Cyber-Physical Systems  |  Industrial Deployments**.
+Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems, Performance Evaluation, Cyber-Physical Systems, Industrial Deployments**.
 
 [**Further details**](https://ajaykattepur.github.io/ajaykattepur/projects) 
-
-**Publications**
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
@@ -44,17 +42,16 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 
 ### Extras
 
-Computing
-- Xubuntu - Stable, user-friendly, light-weight, free Linux OS (XFCE)
-- DuckDuckGo - Search engine that respects privacy
-- AdBlock Plus - Web Browser extension to block advertisement scripts
-- LaTeX Beamer - Superior professional/scientific presentation software 
-
-Education
-- NPTEL - Online courses from IITs, IISc
-- Scilab - Open source scientific computation
-- Popular Science - Royal Society book awards and reviews
-- Vaue Research - Mutual fund investment guide
+- Computing
+  - [Xubuntu](https://xubuntu.org/) - Stable, user-friendly, light-weight, free Linux OS (XFCE)
+  - [DuckDuckGo](https://duckduckgo.com/) - Search engine that respects privacy
+  - [AdBlock Plus](https://adblockplus.org/) - Web Browser extension to block advertisement scripts
+  - [LaTeX Beamer](https://www.sharelatex.com/learn/Beamer) - Superior professional/scientific presentation software 
+- Education
+  - [NPTEL](http://nptel.ac.in/) - Online courses from IITs, IISc
+  - [Scilab](http://www.scilab.org/) - Open source scientific computation
+  - [Popular Science](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/) - Royal Society book awards and reviews
+  - [Vaue Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
 
 General Merriment
 
