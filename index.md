@@ -64,9 +64,10 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 ![Image](https://ajaykattepur.github.io/ajaykattepur/comms.png)
 
 
-**Full Publication List**
-- [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
-- [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
+
+### Publication List
+[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
+[DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
 
