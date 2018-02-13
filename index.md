@@ -53,7 +53,7 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 - QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
 - Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. 
 - Optimizing decisions in web services orchestrations, ICSOC, 2011.
-![Image](https://ajaykattepur.github.io/ajaykattepur/distributed.png)
+![Image](https://ajaykattepur.github.io/ajaykattepur/automata.png)
 
 
 **Communication Protocols**
@@ -75,20 +75,21 @@ Primarily based on applying analytical, simulation and probabilistic models to s
 
 ### Extras
 
-- Computing
+- **Computing**
   - [Xubuntu](https://xubuntu.org/) - Stable, user-friendly, light-weight, free Linux OS (XFCE)
   - [DuckDuckGo](https://duckduckgo.com/) - Search engine that respects privacy
   - [AdBlock Plus](https://adblockplus.org/) - Web Browser extension to block advertisement scripts
   - [LaTeX Beamer](https://www.sharelatex.com/learn/Beamer) - Superior professional/scientific presentation software 
-- Education
+- **Education**
   - [NPTEL](http://nptel.ac.in/) - Online courses from IITs, IISc
   - [Scilab](http://www.scilab.org/) - Open source scientific computation
   - [Popular Science](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/) - Royal Society book awards and reviews
   - [Vaue Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
-- General Merriment
+- **General Merriment**
   - [Minimalism](http://mnmlist.com/minimalist-faqs/) - Elegant lifestyle, design, thinking paradigm
   - [Nordic Design](https://nordicdesign.ca/) - Classy product/interior design examples
   - [Fountain Pens](https://blog.gouletpens.com/reviews/pen-reviews) - Reviews for elegant penmanship
+
 
 
 _Last Update: February 2017_
