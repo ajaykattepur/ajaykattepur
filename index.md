@@ -1,4 +1,4 @@
-## Ajay Kattepur
+# Ajay Kattepur
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
@@ -7,7 +7,27 @@ Embedded Systems & Robotics
 [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx)  
 Bangalore, India
 
-**email: firstname.lastname @ tcs.com**
+**email: firstname.lastname @ tcs.com**   
+   
+    
+## Curriculum Vitae
+
+### Employment
+
+- 2014 - present: Research Scientist (Assistant Consultant), TCS Research, Bangalore, India.
+- 2012 - 2014: Postdoctoral Fellow, ARLES group, Inria, Paris-Rocquencourt, France.
+
+### Education
+
+- 2009 - 2012: PhD in Computer Science, DistribCom group, Inria, Universite de Rennes 1, Rennes, France. 
+- 2007 - 2009: Master of Engineering (Research), School of EEE, Nanyang Technological University, Singapore.
+- 2003 - 2007: Bachelor of Engineering (First Class Honours), School of EEE, Nanyang Technological University, Singapore.
+- 2001 - 2003: ISC Standard 12 (Science), Bishop Cotton Boys' School, Bangalore, India.
+- 1991 - 2001: ICSE Standard 10, Frank Anthony Public School, Bangalore, India.
+
+
+## Research
+
 
 You can use the [editor on GitHub](https://github.com/ajaykattepur/ajaykattepur/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
