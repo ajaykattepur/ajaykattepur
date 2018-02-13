@@ -30,7 +30,7 @@ Bangalore, India
  
 ### Research
 
-**Research Topics**
+**Research Topics**  
 Primarily based on applying mathematical models and abstractions to study:
 - Distributed Systems 
 - Performance Evaluation
@@ -42,7 +42,6 @@ Primarily based on applying mathematical models and abstractions to study:
 **Publications**
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
-
 ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
 
 
