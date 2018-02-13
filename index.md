@@ -14,12 +14,10 @@ Bangalore, India
 ### Curriculum Vitae
 
 **Employment**
-
 - 2014 - present: Research Scientist (Assistant Consultant), [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx), Bangalore, India.
 - 2012 - 2014: Postdoctoral Fellow, ARLES group, [Inria](https://www.inria.fr/en/), Paris-Rocquencourt, France.
 
 **Education**
-
 - 2009 - 2012: PhD in Computer Science, DistribCom group, [Inria](https://www.inria.fr/en/), [Universite de Rennes 1](https://www.univ-rennes1.fr/), Rennes, France. 
 - 2007 - 2009: Master of Engineering (Research), School of EEE, [Nanyang Technological University](http://www.ntu.edu.sg), Singapore.
 - 2003 - 2007: Bachelor of Engineering (First Class Honours), School of EEE, [Nanyang Technological University](http://www.ntu.edu.sg), Singapore.
@@ -33,7 +31,6 @@ Bangalore, India
 ### Research
 
 **Research Topics**
-
 Primarily based on applying mathematical models and abstractions to study:
 - Distributed Systems 
 - Performance Evaluation
@@ -43,30 +40,13 @@ Primarily based on applying mathematical models and abstractions to study:
 [Further details](https://ajaykattepur.github.io/ajaykattepur/projects) 
 
 **Publications**
-
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
+
+
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 _Last Update: February 2017_
