@@ -52,12 +52,10 @@ Primarily based on applying analytical, simulation and probabilistic models to s
   - [Scilab](http://www.scilab.org/) - Open source scientific computation
   - [Popular Science](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/) - Royal Society book awards and reviews
   - [Vaue Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
-
-General Merriment
-
-- Minimalism - Elegant lifestyle, design, thinking paradigm
-- Nordic Design - Classy product/interior design examples
-- Fountain Pens - Reviews for elegant penmanship
+- General Merriment
+  - [Minimalism](http://mnmlist.com/minimalist-faqs/) - Elegant lifestyle, design, thinking paradigm
+  - [Nordic Design](https://nordicdesign.ca/) - Classy product/interior design examples
+  - Fountain Pens - Reviews for elegant penmanship
 
 
 _Last Update: February 2017_
