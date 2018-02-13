@@ -30,26 +30,33 @@ Bangalore, India
  
 ### Research
 
-Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems, Performance Evaluation, Cyber-Physical Systems, Industrial Deployments**.
+Primarily based on applying analytical, simulation and probabilistic models to study:  **Distributed Systems, Performance Evaluation, Cyber-Physical Systems, Industrial Automation**.
 
-**Distributed Systems and Middleware**
-- QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
-- QoS composition and analysis in reconfigurable web services choreographies, ICWS, 2013. 
-- Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. 
-- Optimizing decisions in web services orchestrations, ICSOC, 2011.
-- Variability modeling and qos analysis of web services orchestrations, ICWS, 2010.
+-**Distributed Systems and Middleware**
+  - Analysis of timing constraints in heterogeneous middleware interactions, ICSOC, 2015.
+  - QoS-aware management of monotonic service orchestrations, FMSD, 2014. 
+  - QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
+  - QoS composition and analysis in reconfigurable web services choreographies, ICWS, 2013. 
+  - Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. 
+  - Optimizing decisions in web services orchestrations, ICSOC, 2011.
+  - Variability modeling and qos analysis of web services orchestrations, ICWS, 2010.
+-**Industrial Automation**
+  - Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
+  - Workflow Composition and Analysis in Industry 4.0 Automation, IEEE RTSS, 2017.
+  - A-Priori Estimation of Computation Times in Fog Networked Robotics, IEEE Edge, 2017. 
+  - Resource Constrained Offloading in Fog Computing, Middleware, 2016. 
+-**Performance Modeling**
+  - Service demand modeling and performance prediction with single-user tests, Performance Evaluation, 2017. 
+  -Model Driven Software Performance Engineering: Current Challenges and Way Ahead, ACM Sigmetrics, 2016.
+  -Performance modeling of multi-tiered web applications with varying service demands, IPDPS, 2015.
+ -**Communication Protocols**
+  - FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014.
+  - Data and decision fusion for distributed spectrum sensing in cognitive radio networks, ICICS, 2007.
+  - High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
+  - Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009.
 
 
-**Performance Modeling**
-
-
-
-**Communication Protocols**
-- Data and decision fusion for distributed spectrum sensing in cognitive radio networks, ICICS, 2007.
-- High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
-- Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009.
-
-**Publications**
+**Full Publication List**
 - [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
 - [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
