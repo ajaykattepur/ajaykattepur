@@ -1,4 +1,4 @@
-## Dr. Ajay Kattepur
+## Ajay Kattepur
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
 
@@ -32,7 +32,7 @@ Bangalore, India.
  
 ### Research
 
-Primarily based on applying analytical, simulation and probabilistic models to study: **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation**.
+Analytical, simulation and stochiastic models to study **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation & Operations Research**.
  
  
 **Industrial Automation**
