@@ -49,7 +49,7 @@ Analytical, simulation and stochiastic models to study **Distributed Systems, Se
 **Distributed Systems and Middleware**
 - **Heterogeneous Middleware Interactions**: Analysis of timing constraints in heterogeneous middleware interactions, ICSOC, 2015. QoS analysis in heterogeneous choreography interactions, ICSOC, 2013. 
 - **QoS Management of Web Services Orchestrations/Choreographies**: QoS-aware management of monotonic service orchestrations, FMSD, 2014. QoS composition and analysis in reconfigurable web services choreographies, ICWS, 2013. Flexible Quality of Service Management of Web Services Orchestrations, PhD Thesis, Inria, 2012. Optimizing decisions in web services orchestrations, ICSOC, 2011.
-![Image](https://ajaykattepur.github.io/ajaykattepur/automata.png)
+![Image](https://ajaykattepur.github.io/ajaykattepur/autoata.png)
 
 
 **Communication Protocols**
