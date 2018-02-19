@@ -14,7 +14,7 @@ Bangalore, India.
 ### Curriculum Vitae
 
 **Employment**
-- 2014 - present: Research Scientist (Assistant Consultant), [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx), Bangalore, India.
+- 2014 - present: Research Scientist (Assistant Consultant), [TCS Research & Innovation](http://research-innovation.tcs.com/research/Pages/default.aspx), Mumbai / Bangalore, India.
 - 2012 - 2014: Postdoctoral Research Fellow, ARLES group, [Inria](https://www.inria.fr/en/), Paris-Rocquencourt, France.
  
  
@@ -79,7 +79,7 @@ Analytical, simulation and stochiastic models to study **Distributed Systems, Se
   - [NPTEL](http://nptel.ac.in/) - Online courses from IITs, IISc
   - [Scilab](http://www.scilab.org/) - Open source scientific computation
   - [Popular Science](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/) - Royal Society book awards and reviews
-  - [Vaue Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
+  - [Value Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
 - **General Merriment**
   - [Minimalism](http://mnmlist.com/minimalist-faqs/) - Elegant lifestyle, design, thinking paradigm
   - [Nordic Design](https://nordicdesign.ca/) - Classy product/interior design examples
