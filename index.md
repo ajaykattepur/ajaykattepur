@@ -32,7 +32,7 @@ Bangalore, India.
  
 ### Research
 
-Analytical, simulation and stochiastic models to study **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation & Operations Research**.
+Analytical, simulation and stochastic models to study problems in **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation & Operations Research**.
  
  
 **Industrial Automation**
