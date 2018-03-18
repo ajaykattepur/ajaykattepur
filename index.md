@@ -10,7 +10,7 @@ Bangalore, India.
 **email: firstname.lastname @ tcs.com**
   
   
-[**Curriculum Vitae**](https://ajaykattepur.github.io/ajaykattepur/cv.md)
+[**Curriculum Vitae**](https://ajaykattepur.github.io/ajaykattepur/cv)
  
  
 ### Curriculum Vitae
