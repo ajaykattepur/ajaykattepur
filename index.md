@@ -9,7 +9,7 @@ Bangalore, India.
 **email: firstname.lastname @ tcs.com**
    
        
-[**Curriculum Vitae**](cv.md)   
+[**Curriculum Vitae**](cv.md){:target="_blank"}   
 [**Research & Publications**](research.md)  
 [**Extras**](extras.md)
 
