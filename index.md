@@ -10,7 +10,7 @@ Bangalore, India.
    
        
 [**Curriculum Vitae**](cv.md){:target="_blank"}   
-[**Research & Publications**](research.md){:target="_blank"} 
+[**Research & Publications**](research.md){:target="_blank"}   
 [**Extras**](extras.md){:target="_blank"}
 
 
