@@ -7,7 +7,6 @@
   - [LaTeX Beamer](https://www.sharelatex.com/learn/Beamer) - Superior professional/scientific presentation software 
 - **Education**
   - [Research Writing](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/How-to-write-a-great-research-paper.pdf) - Ideas to structure research work
-  - [NPTEL](http://nptel.ac.in/) - Online courses from IITs, IISc
   - [Scilab](http://www.scilab.org/) - Open source scientific computation
   - [Popular Science](https://royalsociety.org/grants-schemes-awards/book-prizes/science-book-prize/) - Royal Society book awards and reviews
   - [Value Research](https://www.valueresearchonline.com/Default.asp?) - Mutual fund financial investment guide
