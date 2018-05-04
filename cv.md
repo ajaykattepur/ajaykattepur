@@ -14,6 +14,5 @@
  
  
 [**Detailed Curriculum Vitae**](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)
-
 [**Linkdin Profile**](https://in.linkedin.com/in/ajay-kattepur-801a056b)
 
