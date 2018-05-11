@@ -1,2 +1,4 @@
 title: Ajay Kattepur
 theme: jekyll-theme-dinky
+plugins:
+  - jekyll-seo-tag
