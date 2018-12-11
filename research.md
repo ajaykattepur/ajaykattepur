@@ -1,6 +1,6 @@
 ### Research
 
-Analytical, simulation and stochastic models to study problems in **Distributed Systems, Services Computing, Performance Evaluation, Cyber-Physical Systems, Industrial Automation & Operations Research**.
+Analytical, simulation and stochastic models to study problems in **Distributed Systems, Services Computing, Performance Evaluation, Industrial Automation & Operations Research**.
  
  
 **Industrial Automation**
@@ -25,9 +25,9 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
 - _Blind Source Separation for Communication Signals_: Blind source separation algorithms for mitigating co-channel interference and noise in wireless communication systems, NTU Thesis, 2009. FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014. High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
 ![Image](https://ajaykattepur.github.io/ajaykattepur/comms.png)
 
+* * *
 
-
-### Publication List
+### Publication List:
 [Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
 [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
