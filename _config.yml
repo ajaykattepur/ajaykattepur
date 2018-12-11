@@ -1,6 +1,6 @@
 title: Ajay Kattepur Homepage
 author: Ajay Kattepur
 description: Homepage of Dr. Ajay Kattepur
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
