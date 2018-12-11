@@ -1,7 +1,7 @@
-## Ajay Kattepur
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
-
+   
+# Ajay Kattepur   
 Research Scientist (Assistant Consultant)           
 [TCS Research & Innovation](https://www.tcs.com/research-and-innovation)  
 [Tata Consultancy Services](https://www.tcs.com/)  
