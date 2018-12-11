@@ -5,12 +5,15 @@
 Research Scientist (Assistant Consultant)           
 [TCS Research & Innovation](https://www.tcs.com/research-and-innovation)  
 [Tata Consultancy Services](https://www.tcs.com/)  
-Bangalore, India.
+Bangalore, India. 
+
 **email: firstname.lastname @ tcs.com**
    
        
 [**Curriculum Vitae**](cv.md)   
+
 [**Research & Publications**](research.md)   
+
 [**Extras**](extras.md)   
 
 
