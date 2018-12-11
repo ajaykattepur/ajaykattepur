@@ -28,7 +28,7 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
 
 
 ### Publication List
-[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
 [DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
