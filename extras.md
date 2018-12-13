@@ -14,3 +14,5 @@
   - [Minimalism](http://mnmlist.com/minimalist-faqs/) - Elegant lifestyle, design, thinking paradigm
   - [Nordic Design](https://nordicdesign.ca/) - Classy product/interior design examples
   - [Fountain Pens](https://blog.gouletpens.com/reviews/pen-reviews) - Reviews for elegant penmanship
+
+* * *
