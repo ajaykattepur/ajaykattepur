@@ -13,7 +13,7 @@ Bangalore, India.
      
 **Details:**  
 [Curriculum Vitae](cv.md)   
-[Research & Publications](research.md)    
+[Research](research.md)    
 [Extras](extras.md)   
 
-_Last Update: February 2017_
+_Last Update: April 2019_
