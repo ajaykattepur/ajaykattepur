@@ -20,7 +20,7 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
  
  
 **Industrial Automation**
-- _Industry 4.0 Workflows_: Workflow Composition and Analysis in Industry 4.0 Automation, IEEE RTSS, 2017. Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
+- _Industry 4.0 Workflows_: Structured Performance Analysis of Industry 4.0 Waorkflow Resource Paatterns, ACM ICPE, 2019. Workflow Composition and Analysis in Industry 4.0 Automation, IEEE RTSS, 2017. Distributed Optimization in Multi Agent Warehouse Automation, ACM SAC, 2018.
 - _Fog/Edge Computing_: A-Priori Estimation of Computation Times in Fog Networked Robotics, IEEE Edge, 2017. Resource Constrained Offloading in Fog Computing, ACM Middleware, 2016. 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/fog.png)
 
@@ -42,5 +42,5 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/comms.png)
 
 * * *
-
-![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
+  
+ ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
