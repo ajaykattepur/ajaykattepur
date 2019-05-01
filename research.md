@@ -1,6 +1,22 @@
+
+### Publication List:
+[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
+[DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)  
+
+
+### Patent List:  
+[Google Patents](https://patents.google.com/?inventor=ajay+kattepur)  
+
+
 ### Research
 
-Analytical, simulation and stochastic models to study problems in **Distributed Systems, Services Computing, Performance Evaluation, Industrial Automation & Operations Research**.
+Analytical, simulation and stochastic models to study problems in **Distributed Systems, Performance Evaluation, Cognitive Systems & Operations Research**.
+ 
+ 
+**Cognitive/Autonomous Systems**
+- _Cognitive Robotics_: Knowledge Based Hierarchical Decomposition of Robotic Action Plans, IEEE IECON, 2018. RoboPlanner: Robotic Action Planning via Knowledge Graph Queries, ACM SAC, 2019.
+- _Automated Planning_: Towards Automated Planning and Adaptation in Intelligent Robotics (under submission). 
+![Image](https://ajaykattepur.github.io/ajaykattepur/hierarchy.png)
  
  
 **Industrial Automation**
@@ -26,14 +42,5 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/comms.png)
 
 * * *
-
-### Publication List:
-[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
-[DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)  
-
-
-### Patent List:  
-[Google Patents](https://patents.google.com/?inventor=ajay+kattepur)  
-
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
