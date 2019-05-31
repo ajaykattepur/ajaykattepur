@@ -2,6 +2,7 @@ title: Ajay Kattepur
 author: Ajay Kattepur
 description: Homepage of Ajay Kattepur, PhD
 # theme: jekyll-theme-minima
-theme: minima
+# theme: minima
+remote_theme: LeNPaul/Lagrange
 plugins:
   - jekyll-seo-tag
