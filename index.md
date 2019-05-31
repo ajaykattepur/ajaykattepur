@@ -7,8 +7,8 @@ Research Scientist (Assistant Consultant)
 [Tata Consultancy Services](https://www.tcs.com/)  
 Bangalore, India.   
 **email:** _firstname.lastname @ tcs.com_  
-  
-   
+&nbsp;
+&nbsp;    
 [Curriculum Vitae](cv.md)   
 [Research](research.md)    
 [Extras](extras.md)   
