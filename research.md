@@ -72,7 +72,9 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
   - FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014. 
   - High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
 
-* * *
+&nbsp; 
+&nbsp; 
+&nbsp; 
   
  ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
 
