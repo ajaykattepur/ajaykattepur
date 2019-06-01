@@ -8,9 +8,12 @@ Research Scientist (Assistant Consultant)
 Bangalore, India.   
 **email:** _firstname.lastname @ tcs.com_  
 &nbsp;
-&nbsp;    
+&nbsp;
+&nbsp;
 [Curriculum Vitae](cv.md)   
 [Research](research.md)    
 [Extras](extras.md)   
-
+&nbsp;
+&nbsp;
+&nbsp;
 _Last Update: April 2019_
