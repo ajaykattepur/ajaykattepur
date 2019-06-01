@@ -11,10 +11,8 @@
 - 2003 - 2007: Bachelor of Engineering (First Class Honours), School of EEE (Info-communication Engineering), [Nanyang Technological University](http://www.ntu.edu.sg), Singapore.
 - 2001 - 2003: ISC Standard 12 (Science), [Bishop Cotton Boys' School](http://www.cottonboys.com/), Bangalore, India.
 - 1991 - 2001: ICSE Standard 10, [Frank Anthony Public School](http://www.fapsbangalore.com/), Bangalore, India.  
-&nbsp; 
-&nbsp; 
-&nbsp; 
-
+&nbsp;   
+&nbsp;   
 **Further Information:**  
 [Detailed Curriculum Vitae](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)  
 [Linkedin Profile](https://in.linkedin.com/in/ajay-kattepur-801a056b)
