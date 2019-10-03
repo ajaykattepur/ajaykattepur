@@ -1,7 +1,8 @@
 ### Curriculum Vitae
 
-**Employment**
-- 2014 - present: Research Scientist (Assistant Consultant), [TCS Research & Innovation](https://www.tcs.com/research-and-innovation), Mumbai / Bangalore, India.
+**Employment**  
+- 2019 - present: Senior Researcher, [Ericsson Research](https://twitter.com/ericssonlabs?lang=en), Bangalore, India.
+- 2014 - 2019: Research Scientist (Assistant Consultant), [TCS Research & Innovation](https://www.tcs.com/research-and-innovation), Mumbai / Bangalore, India.
 - 2012 - 2014: Postdoctoral Research Fellow, ARLES group, [Inria](https://www.inria.fr/en/), Paris-Rocquencourt, France.
  
  
@@ -14,6 +15,6 @@
 &nbsp;   
 &nbsp;   
 **Further Information:**  
-[Detailed Curriculum Vitae](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)  
+[Detailed Curriculum Vitae (2018)](https://ajaykattepur.github.io/ajaykattepur/ajay_kattepur_cv.pdf)  
 [Linkedin Profile](https://in.linkedin.com/in/ajay-kattepur-801a056b)
 
