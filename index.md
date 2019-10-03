@@ -2,11 +2,11 @@
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
    
 ### Ajay Kattepur   
-Research Scientist (Assistant Consultant)           
-[TCS Research & Innovation](https://www.tcs.com/research-and-innovation)  
-[Tata Consultancy Services](https://www.tcs.com/)  
+Senior Researcher      
+[Ericsson Research](https://twitter.com/ericssonlabs?lang=en)  
+[Ericsson](https://www.ericsson.com/en)  
 Bangalore, India.   
-**email:** _firstname.lastname @ tcs.com_  
+**email:** _firstname.lastname @ ericsson.com_  
 &nbsp;  
 &nbsp;     
 [Curriculum Vitae](cv.md)   
@@ -14,4 +14,4 @@ Bangalore, India.
 [Extras](extras.md)   
 &nbsp;  
 &nbsp;  
-_Last Update: April 2019_
+_Last Update: September 2019_
