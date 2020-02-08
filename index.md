@@ -9,7 +9,8 @@ Bangalore, India.
 **email:** _firstname.lastname @ ericsson.com_  
 &nbsp;  
 &nbsp;     
-[Curriculum Vitae](cv.md)   
+[Curriculum Vitae](cv.md) 
+[Publications & Patents](publications.md)  
 [Research](research.md)    
 [Extras](extras.md)   
 &nbsp;  
