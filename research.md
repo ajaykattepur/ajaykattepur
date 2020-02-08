@@ -1,16 +1,6 @@
-
-### Publications
-[Google Scholar](https://scholar.google.com/citations?user=UFFGGzEAAAAJ)  
-[DBLP](http://dblp.uni-trier.de/pers/hd/k/Kattepur:Ajay)  
-
-
-### Patents
-[Google Patents](https://patents.google.com/?inventor=ajay+kattepur)  
-
-
 ### Research
 
-Analytical, simulation and stochastic models to study problems in **Distributed Systems, Performance Evaluation, Cognitive Systems & Operations Research**.
+Analytical, simulation and stochastic models to study problems in **Distributed Systems, Performance Evaluation, Cognitive Systems, AI Planning & Operations Research**.
  
  
 **Cognitive/Autonomous Systems**
@@ -72,12 +62,3 @@ Analytical, simulation and stochastic models to study problems in **Distributed 
   - FebICA: Feedback Independent Component Analysis for Complex Domain Source Separation of Communication Signals, Book Chapter, 2014. 
   - High Fidelity Blind Source Separation of Speech Signals, EUSIPCO, 2009.
 
-&nbsp; 
-&nbsp; 
-* * *
-&nbsp; 
-&nbsp; 
-  
- ![Image](https://ajaykattepur.github.io/ajaykattepur/calvin.PNG)
-
-Calvin says it best !
