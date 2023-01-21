@@ -1,7 +1,7 @@
 
 ![Image](https://ajaykattepur.github.io/ajaykattepur/ajay.jpg)
    
-### Ajay Kattepur   
+### Ajay Kattepur  
 Senior Researcher      
 [Ericsson Research](https://twitter.com/ericssonlabs?lang=en)  
 [Ericsson](https://www.ericsson.com/en)  
